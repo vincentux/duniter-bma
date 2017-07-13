@@ -680,7 +680,7 @@ Parameters meaning is described under [Protocol parameters](https://github.com/d
 
 **Goal**
 
-POST a [Membership](./Protocol.md#membership) document.
+POST a [Membership](https://github.com/duniter/duniter/blob/master/doc/Protocol.md#membership) document.
 
 **Parameters**
 
